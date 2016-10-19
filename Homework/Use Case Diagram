@@ -1,13 +1,14 @@
-1.การย้ายจากหอ
+ ## 1.Moving away from the Tower
 
 ```
 :Renter: --(move out)
 (move out)-->(Check for damage):Ues
 (Calculating fines)..|>(Check for damage):extends
 (Refund Claims)..|>(Check for damage):extends
-:staff:--(Check for damage) 
+:staff:--(Check for damage)
 ```
-https://github.com/JUBJIBPIYAPATH/OOAD-WEEK08/blob/master/Homework/case%201.PNG?raw=true
+
+[![IMAGE ALT TEXT](http://www.plantuml.com/plantuml/img/ux8AIiqhIIsoKj3LrSZDBqjLo2yjqUH2C7LrxJISCrAJinNIyeiKKX9p4zDJDQr2KukvD9mJSv9BSn9BClFI5T8oyrABDVNqQh2fJgqeISrB0Ue8IaqhpKjHSCv9pCmbgDggk2GnBSqAw2uCDG00)
 
 
 
